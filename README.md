@@ -1,0 +1,4 @@
+- Allows users to enter their name and surname
+- Generates a customized greeting message based on user input
+- Clear button to reset the fields
+- Exit button to close the application
