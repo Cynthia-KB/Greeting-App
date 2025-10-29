@@ -77,7 +77,7 @@ public class GreetingsGUI extends JFrame {
            
            greetingTxtArea= new JTextArea(25,40);
            greetingTxtArea.setEditable(false);
-           greetingTxtArea.setText("Hell [name] [surname]");
+           greetingTxtArea.setText("Hello [name] [surname]");
            
            greetBtn = new JButton("Greet");
            greetBtn.addActionListener(e ->{
@@ -131,4 +131,5 @@ public class GreetingsGUI extends JFrame {
            
     }
     
+
 }
